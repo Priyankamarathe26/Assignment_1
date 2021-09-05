@@ -2,7 +2,6 @@
 <!--Heading-->
 _This is a repository for Assignment-1 which contains index.html file for sample webpage of Vecta Corporation_
 ## Contents Of This File
-------------------------------------<br>
 * Installation
 * Tags Used
 * Content Information
@@ -10,7 +9,6 @@ _This is a repository for Assignment-1 which contains index.html file for sample
 <p>&nbsp</p>
 
 ## Installation
------------------------------
 1. Gihub Repository Sign Up [Visit GitHub](https://github.com/)
    - Storage repository for source code.
 2. Github Desktop [Visit GitHub Desktop](https://desktop.github.com/)
