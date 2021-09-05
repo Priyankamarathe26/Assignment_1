@@ -41,8 +41,8 @@ Tel. (800) 555-5555
 <p>&nbsp;</p>    
 
 ## Management Team        
-Agnes, Vice President, Accounting
-Damon, Director of Development
-Herbert, Director of Human Resources
-Mike, Vice President, Marketing
-Ferris, Founder and CEO
+Agnes, Vice President, Accounting  
+Damon, Director of Development  
+Herbert, Director of Human Resources  
+Mike, Vice President, Marketing  
+Ferris, Founder and CEO  
